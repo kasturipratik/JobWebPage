@@ -37,3 +37,7 @@ a h3:link{
 .hovering:hover{
     background-color: #ef9a9a ;
 }
+/*for new applicants*/
+.button{
+    width: 60%;
+}
