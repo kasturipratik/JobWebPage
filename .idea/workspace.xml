@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c302068d-bb77-434d-9cf8-2491bf92cc39" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/existingApplicants.html" afterPath="$PROJECT_DIR$/existingApplicants.html" />
-      <change beforePath="$PROJECT_DIR$/newApplicants.html" afterPath="$PROJECT_DIR$/newApplicants.html" />
+      <change beforePath="$PROJECT_DIR$/jobDetails.html" afterPath="$PROJECT_DIR$/jobDetails.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +25,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newApplicants.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="newApplicants.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newApplicants.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="351">
               <caret line="22" column="50" lean-forward="false" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
               <folding />
             </state>
@@ -56,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jobDetails.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="jobDetails.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jobDetails.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="81" column="14" lean-forward="true" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+            <state relative-caret-position="425">
+              <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -125,10 +124,10 @@
         <option value="$PROJECT_DIR$/applicants.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/jobDetails.html" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/existingApplicants.html" />
         <option value="$PROJECT_DIR$/newApplicants.html" />
+        <option value="$PROJECT_DIR$/jobDetails.html" />
       </list>
     </option>
   </component>
@@ -292,12 +291,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1529672690671</updated>
-      <workItem from="1529672708841" duration="13910000" />
+      <workItem from="1529672708841" duration="13983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13910000" />
+    <option name="totallyTimeSpent" value="13983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -390,14 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jobDetails.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="81" column="14" lean-forward="true" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -416,8 +407,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newApplicants.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="351">
           <caret line="22" column="50" lean-forward="false" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobDetails.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
           <folding />
         </state>
       </provider>
