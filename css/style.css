@@ -1,0 +1,39 @@
+.fontOne{     font-family: 'Concert One', cursive;}
+h1,h2,h3,h4{     font-family: 'Concert One', cursive;}
+
+.wid{
+    width:100%;
+    font-family: 'Concert One', cursive;
+}
+div .hover:hover{
+
+    text-decoration: none;
+}
+
+a div h3:hover{
+   color: white;
+    text-decoration: none;
+}
+a h3:link{
+    text-decoration: none;
+    color:black;
+}
+
+#red{
+    background-color: #ef9a9a ;
+}
+#green{
+    background-color:#a5d6a7 ;
+}
+#gray{
+    background-color:#bdbdbd;
+}
+#red:hover,#green:hover,#gray:hover{
+    background-color:#757575;
+    color: white;
+    text-decoration: none;
+}
+/*for existing applicants page*/
+.hovering:hover{
+    background-color: #ef9a9a ;
+}
